@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FanOfEating</string>
+    <string name="bottom_square">广场</string>
+    <string name="bottom_Preference">偏好</string>
+    <string name="bottom_mine">我的</string>
+
+</resources>
